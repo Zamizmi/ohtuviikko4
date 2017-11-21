@@ -4,8 +4,6 @@ import ohtu.matkakortti.Matkakortti;
 import ohtu.matkakortti.Kassapaate;
 import org.junit.Before;
 import org.junit.Test;
-import static org.mockito.Matchers.anyInt;
-import static org.mockito.Matchers.eq;
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.times;
 import static org.mockito.Mockito.verify;

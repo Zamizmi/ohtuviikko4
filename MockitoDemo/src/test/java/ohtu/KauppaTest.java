@@ -65,7 +65,7 @@ public class KauppaTest {
     public void kaytetaanMaksussaPalautettuaViiteta() {
         Pankki mockPankki = mock(Pankki.class);
         Viitegeneraattori mockViite = mock(Viitegeneraattori.class);
-        
+
         // määrittelemme minkä arvon viitegeneraattori palauttaa kun sen metodia
         // seuraava() kutsutaan
         when(mockViite.seruaava()).thenReturn(55);
@@ -133,20 +133,20 @@ public class KauppaTest {
 
         // varmistetaan, että nyt käytössä ensimmäisenä pyydetty viite
         verify(mockPankki).maksa(anyString(), anyInt(), eq(1));
-        
+
         kauppa.aloitaOstokset();
         kauppa.lisaaOstos(1);
         kauppa.maksa("1222");
 
         // ... toisena pyydetty viite
-        verify(mockPankki).maksa(anyString(), anyInt(), eq(2));   
-        
+        verify(mockPankki).maksa(anyString(), anyInt(), eq(2));
+
         kauppa.aloitaOstokset();
         kauppa.lisaaOstos(1);
         kauppa.maksa("4321");
 
         // ... ja kolmantena pyydetty viite        
-        verify(mockPankki).maksa(anyString(), anyInt(), eq(3));           
+        verify(mockPankki).maksa(anyString(), anyInt(), eq(3));
 
     }
 }
