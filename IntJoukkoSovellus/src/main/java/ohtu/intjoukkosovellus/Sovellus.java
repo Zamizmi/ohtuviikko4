@@ -39,6 +39,11 @@ public class Sovellus {
         joukko = mikaJoukko();
         System.out.println("");
         System.out.print("Mikä luku lisätään? ");
+        try {
+            lisLuku = lukija.nextInt();
+
+        } catch (Exception e) {
+        }
         lisLuku = lukija.nextInt();
         joukko.lisaa(lisLuku);
         return;
