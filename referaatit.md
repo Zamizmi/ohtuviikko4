@@ -1,5 +1,5 @@
-*Ohjelmistotuotantomenetelmien kehittyminen 1950-luvulta nykypäivään*
-Lauri Suomalainen
+**Ohjelmistotuotantomenetelmien kehittyminen 1950-luvulta nykypäivään
+Lauri Suomalainen**
 
 Kandidaatin tutkielmassaan Lauri Suomalainen kertoo ohjelmistotuotantomenetelmien kehityksestä 50-luvulta nykyaikaan, käyden läpi erilaisia menetelmiä, kertoen samalla niiden piirteistä, hyödyistä ja haitoista.
 
@@ -9,8 +9,8 @@ Suomalainen kertoo, kuinka lineaarisista menetelmistä alettiin siirtyä iterati
 
 
 
-*Ohjelmistoarkkitehtuurin sisällyttäminen ketteriin ohjelmistotuotantomenetelmiin*
-Tero Huomo
+**Ohjelmistoarkkitehtuurin sisällyttäminen ketteriin ohjelmistotuotantomenetelmiin
+Tero Huomo**
 
 Kandidaatin tutkielmassaan Tero Huomo käsittelee miten ohjelmistoarkkitehtuuria toteutetaan ketterissä menetelmissä, käyttäen esimerkkeinä viittä erilaista käytäntöä, jotka eivät ole kaikki suoraan linjassa ketterien menetelmien kanssa. Sprint 0, arkkitehtuuri eriytettynä prosessina, suunnittelupiikit, arkkitehtuuri jaksot sekä arkkitehtuuritarinat ovat kaikki ketterien menetelmien ulkopuolelta, enemmänkin työelämän vaatimuksista syntyneitä tapoja.
 
@@ -20,8 +20,8 @@ Huomon mukaan ketterien menetelmien tuotannossa sovellusarkkitehdille ei ole oma
 
 
 
-Metriikat käytänteiden tukena ohjelmiston laadun arvioimisessa
-Kasper Hirvikoski
+**Metriikat käytänteiden tukena ohjelmiston laadun arvioimisessa
+Kasper Hirvikoski**
 
 Kandidaatin tutkielmassaan Kasper Hirvikoski kertoo, miten ohjelmiston laatua voidaan arvioida metriikan avulla, eikä pelkkien testien perusteella. Hirvikoski esittelee koodikirnun, verkkoanalyysin, testikattavuuden sekä mutaatiotestauksen metriikan keinoina, ja kertoo jokaisesta niiden vahvoja puolia, sekä muita ominaisuuksia.
 
@@ -31,8 +31,8 @@ Hirvikoski painottaa laadunvalvonnassa testauksen kattavuuden merkitystä, mutta
 
 
 
-Ryhmätyö ohjelmistokehityksessä
-Kenny Heinonen
+**Ryhmätyö ohjelmistokehityksessä
+Kenny Heinonen**
 
 Heinonen käsittelee kandidaatin tutkielmassaan ryhmätyöskentelyä sekä siihen vaikuttavia ilmiöitä, kuten ihmisten persoonallisuutta. Ketterissä menetelmissä ryhmien itseohjautuvuus on oletettua sekä rohkaistua, sillä mm. Scrumin mukaan parhaat tulokset saadaan pienillä itseohjautuvillla ryhmillä, joista löytyy riittävä osaaminen lähes kaikkien ohjelmistotuotannon haasteisiin.
 
@@ -42,8 +42,8 @@ Heinosen mukaan ryhmätyöskentelyyn vaikuttaa olennaisesti tiimin jäsenten per
 
 
 
-Johtaminen perinteisissä ja ketterissä ohjelmistoprojekteissa
-Eero-­Veikko Laine
+**Johtaminen perinteisissä ja ketterissä ohjelmistoprojekteissa
+Eero-­Veikko Laine**
 
 Eero-Veikko Laine kertoo kandidaatin tutkielmassaan projektijohtamisesta lineaarisissa sekä ketterissä ohjelmistotuotannon menetelmissä. Laineen mukaan ohjelmistotuotantoa on pitkään leimannut epäonnistunut projektijohtaminen ja sitä seurannut projektien epäonnistumiset.
 
@@ -53,8 +53,8 @@ Laine vertaa lineaaristen menetelmien projektijohtamisen piirteitä ketterien me
 
 
 
-Jatkuva eksperimentointi ohjelmistokehityksen tukena
-Esa Kortelainen
+**Jatkuva eksperimentointi ohjelmistokehityksen tukena
+Esa Kortelainen**
 
 Kandidaatin tutkielmassa Esa Kortelainen kertoo jatkuvan eksperimoinnin mahdollisuuksista ohjelmistokehityksessä ja miten pienet yritykset pystyvät välttämään konkurssia sitä seuraamalla.
 
@@ -64,8 +64,8 @@ Jatkuvan eksperimoinnin tavoitteena on tuottaa mahdollisimman nopeasti asiakasta
 
 
 
-Scrumban-menetelmän käyttö ketterässä ohjelmistokehityksessä
-Kalle Ilves
+**Scrumban-menetelmän käyttö ketterässä ohjelmistokehityksessä
+Kalle Ilves**
 
 Kalle Ilveksen kandidaatin tutkielma käsittelee ketterien menetelmien, etenkin Scrumin ja Kanbanin, eroja ja yhtäläisyyksiä, sekä niiden välimuotoa, Scrumbania. Ketterien menetelmien taustalla on kaksi pääideaa: ihmisten arvostaminen sekä jatkuva kehittyminen.
 
