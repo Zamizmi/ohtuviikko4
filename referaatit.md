@@ -1,4 +1,4 @@
-Ohjelmistotuotantomenetelmien kehittyminen 1950-luvulta nykypäivään
+*Ohjelmistotuotantomenetelmien kehittyminen 1950-luvulta nykypäivään*
 Lauri Suomalainen
 
 Kandidaatin tutkielmassaan Lauri Suomalainen kertoo ohjelmistotuotantomenetelmien kehityksestä 50-luvulta nykyaikaan, käyden läpi erilaisia menetelmiä, kertoen samalla niiden piirteistä, hyödyistä ja haitoista.
@@ -9,7 +9,7 @@ Suomalainen kertoo, kuinka lineaarisista menetelmistä alettiin siirtyä iterati
 
 
 
-Ohjelmistoarkkitehtuurin sisällyttäminen ketteriin ohjelmistotuotantomenetelmiin
+*Ohjelmistoarkkitehtuurin sisällyttäminen ketteriin ohjelmistotuotantomenetelmiin*
 Tero Huomo
 
 Kandidaatin tutkielmassaan Tero Huomo käsittelee miten ohjelmistoarkkitehtuuria toteutetaan ketterissä menetelmissä, käyttäen esimerkkeinä viittä erilaista käytäntöä, jotka eivät ole kaikki suoraan linjassa ketterien menetelmien kanssa. Sprint 0, arkkitehtuuri eriytettynä prosessina, suunnittelupiikit, arkkitehtuuri jaksot sekä arkkitehtuuritarinat ovat kaikki ketterien menetelmien ulkopuolelta, enemmänkin työelämän vaatimuksista syntyneitä tapoja.
